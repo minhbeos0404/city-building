@@ -1,0 +1,6 @@
+{
+  "name": "City Builder",
+  "description": "An isometric grid-based pixel art city builder game with local saving and real-time simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
